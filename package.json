@@ -1,0 +1,23 @@
+{
+  "name": "triangle-normal",
+  "version": "0.0.0",
+  "description": "Get the normal vector of a 3D triangle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/triangle-normal.git"
+  },
+  "keywords": [
+    "vectors",
+    "triangle",
+    "normal",
+    "3D",
+    "mesh"
+  ],
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
